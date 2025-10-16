@@ -1,1 +1,1 @@
-# StudentGitLab
+# StudentGitLab Project
